@@ -1,3 +1,5 @@
+-- Exploratory Data Analysis on Covid data
+
 SELECT *
 FROM CovidData..CovidDeaths
 WHERE continent is not null
