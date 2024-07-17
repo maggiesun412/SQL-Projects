@@ -212,6 +212,12 @@ WHERE total_laid_off IS NULL
 AND percentage_laid_off IS NULL;
 
 
+ALTER TABLE layoffs_staging2
+DROP COLUMN row_num;
+
+
+
+
 -- Exploratory Data Analysis on Layoffs
 
 SELECT *
@@ -402,6 +408,6 @@ FROM Location_Layoffs_Rank
 WHERE Ranking <= 5
 ;
 
-ALTER TABLE layoffs_staging2
-DROP COLUMN row_num;
+
+
 
