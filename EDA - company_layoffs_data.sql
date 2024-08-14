@@ -1,4 +1,10 @@
--- Data Cleaning
+/*
+
+-- Data cleaning and exploratory data analysis on company layoffs
+
+Skills used: Joins, CTE's, Windows Functions, Aggregate Functions
+
+*/
 
 SELECT *
 FROM layoffs;
