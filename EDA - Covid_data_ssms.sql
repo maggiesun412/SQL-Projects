@@ -1,4 +1,10 @@
+/*
+
 -- Exploratory Data Analysis on Covid data
+
+Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+*/
 
 SELECT *
 FROM CovidData..CovidDeaths
