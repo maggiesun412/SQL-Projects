@@ -1,3 +1,11 @@
+/*
+
+-- Exploratory Data Analysis on Amazon product listings
+
+Skills used: Joins, CTE's, Windows Functions, Aggregate Functions
+
+*/
+
 SELECT *
 FROM amazon_products;
 
