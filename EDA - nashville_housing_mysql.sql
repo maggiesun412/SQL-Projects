@@ -1,3 +1,11 @@
+/*
+
+-- Exploratory data analysis on Nashville housing data
+
+Skills used: Joins, CTE's, Windows Functions, Aggregate Functions
+
+*/
+
 
 SELECT *
 FROM housing_data;
