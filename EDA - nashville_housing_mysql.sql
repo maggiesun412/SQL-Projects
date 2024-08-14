@@ -1,6 +1,6 @@
 /*
 
--- Exploratory data analysis on Nashville housing data
+-- Exploratory Data Analysis on Nashville housing data
 
 Skills used: Joins, CTE's, Windows Functions, Aggregate Functions
 
