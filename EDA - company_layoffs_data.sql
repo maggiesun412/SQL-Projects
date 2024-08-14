@@ -1,6 +1,6 @@
 /*
 
--- Data cleaning and exploratory data analysis on company layoffs
+-- Data cleaning and Exploratory Data Analysis on company layoffs
 
 Skills used: Joins, CTE's, Windows Functions, Aggregate Functions
 
