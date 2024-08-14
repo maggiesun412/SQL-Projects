@@ -1,6 +1,6 @@
 /*
 
--- Exploratory data analysis on supply chain metrics
+-- Exploratory Data Analysis on supply chain metrics
 
 Skills used: Joins, CTE's, Subqueries, Aggregate Functions
 
