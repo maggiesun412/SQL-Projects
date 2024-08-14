@@ -1,3 +1,11 @@
+/*
+
+-- Exploratory data analysis on supply chain metrics
+
+Skills used: Joins, CTE's, Subqueries, Aggregate Functions
+
+*/
+
 SELECT *
 FROM supply_chain_metrics;
 
